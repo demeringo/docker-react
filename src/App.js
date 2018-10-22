@@ -11,6 +11,7 @@ class App extends Component {
 
           <p>
           Yeah Yeah Yeah ! and one more yeah<br/>
+
             Edit <code>src/App.js</code> and save to reload.
           </p>
           <a
