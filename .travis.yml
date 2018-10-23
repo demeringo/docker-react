@@ -13,8 +13,8 @@ deploy:
   region: "eu-west-1"
   app: "docker-react-udemy"
   env: "DockerReactUdemy-env"
-  bucker_name: "elasticbeanstalk-eu-west-1-814098365754"
-  bucker_path: "docker-react-udemy"
+  bucket_name: "elasticbeanstalk-eu-west-1-814098365754"
+  bucket_path: "docker-react-udemy"
   on:
     branch: master
   access_key_id: $AWS_ACCESS_KEY
