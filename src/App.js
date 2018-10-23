@@ -10,7 +10,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
 
           <p>
-          Yeah Yeah Yeah ! and one more yeah<br/>
+          Yeah Yeah Yeah !<br/>
 
             Edit <code>src/App.js</code> and save to reload.
           </p>
